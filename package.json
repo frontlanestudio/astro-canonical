@@ -29,11 +29,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/velohost/astro-canonical.git"
+    "url": "git+https://github.com/frontlanestudio/astro-canonical.git"
   },
-  "homepage": "https://github.com/velohost/astro-canonical",
+  "homepage": "https://github.com/frontlanestudio/astro-canonical",
   "bugs": {
-    "url": "https://github.com/velohost/astro-canonical/issues"
+    "url": "https://github.com/frontlanestudio/astro-canonical/issues"
   },
   "peerDependencies": {
     "astro": "^4.0.0 || ^5.0.0 || ^6.0.0"
